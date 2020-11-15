@@ -1,6 +1,6 @@
 # LibreOffice Headless
 
-**LibreOffice** headless, docker image based on **Node**, this image used for report rendering and PDF conversation
+**LibreOffice** headless, docker image based on **Node-Alpine**, this image used for report rendering and PDF conversation
 
 ---
 
